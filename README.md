@@ -16,6 +16,7 @@ I eat new frameworks for breakfast.
 ![Angular](https://img.shields.io/badge/Angular-blue?style=for-the-badge&logo=angular)
 ![NestJS](https://img.shields.io/badge/NestJS-blue?style=for-the-badge&logo=nestjs)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-white?style=for-the-badge&logo=ionic)
 ![Sass](https://img.shields.io/badge/SCSS-blue?style=for-the-badge&logo=Sass)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
