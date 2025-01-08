@@ -9,6 +9,8 @@
 ## Latest cool websites
 - 🦋 [Loot Goblins Webpage](https://www.loot-goblins.com)
 - ⛰️ [Monitor Austral Landing](https://www.monitoraustral.cl/)
+- 🍇 [Cosechar.cl](https://cosechar.cl/home)
+- ⭐ [Starbones App (NASA Hackaton 2023)](https://star-bones-app.vercel.app/home)
 
 I eat new frameworks for breakfast.
 
