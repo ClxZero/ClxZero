@@ -1,4 +1,5 @@
-![alt README header](https://i.ibb.co/t862nPF/github-banner-clx.webp)
+
+![readme header](https://i.ibb.co/t862nPF/github-banner-clx.webp)
 
 <h1 align="center">ClxZero</h1>
 <p align="center" style="font-weight: 300">✨ I do a bit of everything 😏</p>
