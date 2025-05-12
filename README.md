@@ -4,11 +4,13 @@
 <p align="center" style="font-weight: 300">✨ I do a bit of everything 😏</p>
 
 # FullStack Developer
-- ⛰️ Lead Developer on [Monitor Austral](https://app.monitoraustral.cl/)
 
-## Latest cool websites
+## Latest cool projects
+- 🌌 [There's always something pretty yet to be done](https://galaxy-tests1.vercel.app/)
+- ⛰️ [Monitor Austral App](https://app.monitoraustral.cl/)
+- ⛰️ [2025 Monitor Austral Landing](https://last-ma-landing-demo.vercel.app/)
 - 🦋 [Loot Goblins Webpage](https://www.loot-goblins.com)
-- ⛰️ [Monitor Austral Landing](https://www.monitoraustral.cl/)
+- ⛰️ [Old Monitor Austral Landing](https://www.monitoraustral.cl/)
 - 🍇 [Cosechar.cl](https://cosechar.cl/home)
 - ⭐ [Starbones App (NASA Hackaton 2023)](https://star-bones-app.vercel.app/home)
 
