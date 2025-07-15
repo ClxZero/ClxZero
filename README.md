@@ -8,6 +8,7 @@
 
 ## Latest cool projects
 - 🌌 [There's always something pretty yet to be done](https://galaxy-tests1.vercel.app/)
+- 🧠 [A Quick 16PF Test](https://quick16pf.vercel.app/)
 - ⛰️ [Monitor Austral App](https://app.monitoraustral.cl/)
 - ⛰️ [2025 Monitor Austral Landing](https://last-ma-landing-demo.vercel.app/)
 - 🦋 [Loot Goblins Webpage](https://www.loot-goblins.com)
@@ -30,6 +31,7 @@ I eat new frameworks for breakfast.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Nextjs-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 <!--
 <div>
