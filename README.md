@@ -1,5 +1,4 @@
-
-![readme header](https://i.ibb.co/GfvVVYYb/github-banner-clx.webp)
+![readme header](https://github.com/user-attachments/assets/e508716c-bb28-46cb-b8af-db4443b703d7)
 
 <h1 align="center">ClxZero</h1>
 <p align="center" style="font-weight: 300">✨ I do a bit of everything 😏</p>
