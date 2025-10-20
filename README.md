@@ -10,7 +10,7 @@
 - 🧠 [A Quick 16PF Test](https://quick16pf.vercel.app/)
 - ⛰️ [Monitor Austral App](https://app.monitoraustral.cl/)
 - ⛰️ [2025 Monitor Austral Landing](https://last-ma-landing-demo.vercel.app/)
-- 🦋 [Loot Goblins Webpage](https://www.loot-goblins.com)
+- 🦋 [Loot Goblins Webpage](https://loot-goblins-webpage.vercel.app/)
 - ⛰️ [Old Monitor Austral Landing](https://www.monitoraustral.cl/)
 - 🍇 [Cosechar.cl](https://cosechar.cl/home)
 - ⭐ [Starbones App (NASA Hackaton 2023)](https://star-bones-app.vercel.app/home)
